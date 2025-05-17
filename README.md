@@ -24,6 +24,8 @@ Dado n números (notas entre 0 y 100), calcula el promedio y mostrar en la prime
 60 70
 ```
 
+[Solución](./A.cpp)
+
 </details>
 <details>
 <summary><h2>B - Problema deque</h2></summary>
@@ -53,6 +55,8 @@ urgente 5
 ```Salida:
 5 3 2 1 4
 ```
+
+[Solución](./B.cpp)
 
 </details>
 <details>   
@@ -87,6 +91,8 @@ Es válida
 Es inválida
 ```
 
+[Solución](./C.cpp)
+
 </details>
 <details>
 <summary><h2>D - Problema Set</h2></summary>
@@ -116,6 +122,8 @@ NO
 SI
 ```
 
+[Solución](./D.cpp)
+
 </details>
 <details>
 <summary><h2>E - Problema map</h2></summary>
@@ -143,6 +151,8 @@ banana 2
 grape 1
 orange 1
 ```
+
+[Solución](./E.cpp)
 
 </details>
 <details>
@@ -177,5 +187,7 @@ sell
 10
 3
 ```
+
+[Solución](./multi.cpp)
 
 </details>
