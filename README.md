@@ -1,6 +1,7 @@
 # Practice-DataStructureClass
 
-## A - Problema vector
+<details>
+<summary><h2>A - Problema vector</h2></summary>
 
 Dado n números (notas entre 0 y 100), calcula el promedio y mostrar en la primera línea dicho promedio entero. En la segunda línea, imprimir todas las notas menores al promedio.
 
@@ -23,7 +24,9 @@ Dado n números (notas entre 0 y 100), calcula el promedio y mostrar en la prime
 60 70
 ```
 
-## B - Problema deque
+</details>
+<details>
+<summary><h2>B - Problema deque</h2></summary>
 
 Estás procesando una cola de atencion en una oficina. Llegan personas con prioridad normal o urgente. Las personas normales se agregan al final de la fila, mientras que las personas urgentes se agregan al inicio.
 
@@ -51,7 +54,9 @@ urgente 5
 5 3 2 1 4
 ```
 
-## C - Problema Stack
+</details>
+<details>   
+<summary><h2>C - Problema Stack</h2></summary>
 
 Dada una secuencia de paréntesis, verifica si es válida. Una secuencia es válida si:
 
@@ -82,7 +87,9 @@ Es válida
 Es inválida
 ```
 
-## D - Problema Set
+</details>
+<details>
+<summary><h2>D - Problema Set</h2></summary>
 
 Dada una secuencia de n números enteros, imprime ”SI” si el número es la primera vez que aparece, o ”NO” si ya apareció antes.
 
@@ -109,7 +116,9 @@ NO
 SI
 ```
 
-## E - Problema map
+</details>
+<details>
+<summary><h2>E - Problema map</h2></summary>
 
 Estás procesando un texto y necesitas contar cuántas veces aparece cada palabra.
 
@@ -135,7 +144,9 @@ grape 1
 orange 1
 ```
 
-## multi - Problema MultiSet
+</details>
+<details>
+<summary><h2>multi - Problema MultiSet</h2></summary>
 
 Estás desarrollando un sistema de control de precios para una tienda. Cada vez que un producto se vende o se agrega nuevo stock, se actualiza el precio más bajo disponible.
 
@@ -166,3 +177,5 @@ sell
 10
 3
 ```
+
+</details>
